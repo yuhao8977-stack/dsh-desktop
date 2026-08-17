@@ -1,0 +1,8 @@
+# 依赖（npm install 重建）
+node_modules/
+
+# 打包产物
+dist/
+
+# 绿色版压缩包（体积大）
+*.zip
